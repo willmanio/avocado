@@ -1,0 +1,60 @@
+#social-media-links {
+  margin-top: 2.4rem;
+  padding-top: 1.2rem;
+
+  border-top: 1px dashed #DDD;
+
+  ul {
+    margin: 0 !important;
+    width: 100%;
+
+    display: table;
+    table-layout: fixed;
+  }
+
+  li {
+    display: table-cell;
+
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 4.8rem;
+
+    list-style-type: none;
+  }
+
+  a {
+    padding: 0;
+
+    display: block;
+
+    color: #888;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  @media (min-width: $medium-device) {
+    li {
+      font-size: 3.6rem;
+    }
+  }
+}
+
+.social-email a:hover {
+  color: #EB3F1E !important;
+}
+
+.social-github a:hover {
+  color: #9ADAF1 !important;
+}
+
+.social-twitter a:hover {
+  color: #00ABEE !important;
+}
+
+.social-linkedin a:hover {
+  color: #0076B7 !important;
+}
+
+.social-medium a:hover {
+  color: #18FE88 !important;
+}

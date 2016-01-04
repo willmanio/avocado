@@ -1,0 +1,17 @@
+#holster {
+  margin: 2.4rem 1.2rem 2.4rem 1.2rem;
+  padding: 2.4rem;
+
+  background-color: #FFF;
+
+  @media (min-width: $medium-device) {
+    margin: 4.8rem;
+  }
+
+  @media (min-width: $large-device) {
+    margin: 4.8rem auto 4.8rem auto;
+    width: 800px;
+
+    box-shadow: 0px 0px 10px -1px rgba(128, 128, 128, 0.61);
+  }
+}

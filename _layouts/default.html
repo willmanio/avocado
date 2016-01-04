@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <title>{{ site.title }}</title>
+  </head>
+  <body>
+    <div id="holster">
+      <section id="bio">
+        {{ content }}
+      </section>
+      <section id="pic">
+        <img src="assets/images/flair.jpg"></img>
+      </section>
+      <div class="u-cf"></div>
+      <section id="social-media-links">
+        <ul>
+          <li class="social-medium">
+            <a href="{{ site.medium_url }}">
+              <i class="fa fa-medium"></i>
+            </a>
+          </li>
+          <li class="social-github">
+            <a href="{{ site.github_url }}">
+              <i class="fa fa-github"></i>
+            </a>
+          </li>
+          <li class="social-twitter">
+            <a href="{{ site.twitter_url }}">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="social-linkedin">
+            <a href="{{ site.linkedin_url }}">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+          <li class="social-email">
+            <a href="mailto:{{ site.email }}">
+              <i class="fa fa-envelope-o"></i>
+            </a>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </body>
+</html>

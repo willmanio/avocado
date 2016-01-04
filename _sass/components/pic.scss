@@ -1,0 +1,17 @@
+#pic {
+  display: none;
+
+  @media (min-width: $large-device) {
+    width: 44%;
+
+    display: block;
+    float: left;
+  }
+
+  img {
+    height: auto;
+    max-width: 100%;
+
+    display: block;
+  }
+}
