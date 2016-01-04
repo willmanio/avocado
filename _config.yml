@@ -6,4 +6,5 @@ linkedin_url: https://linkedin.com/in/joecool
 medium_url: https://medium.com/joecool
 twitter_url: https://twitter.com/joecool
 
+exclude: screenshots, LICENSE, README.md
 markdown: kramdown
