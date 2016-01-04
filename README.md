@@ -3,6 +3,8 @@
 avocado is a simple, responsive, one-page Jekyll website which helps you establish an
 online presence with minimal effort.
 
+![avocado in action](http://oi66.tinypic.com/se5anp.jpg)
+
 To use avocado with [GitHub Pages](https://pages.github.com/):
 
 - Fork this repository to your own account
