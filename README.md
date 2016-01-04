@@ -3,7 +3,7 @@
 avocado is a simple, responsive, one-page Jekyll website which helps you establish an
 online presence with minimal effort.
 
-![avocado in action](http://oi66.tinypic.com/se5anp.jpg)
+![avocado in action](http://s3.postimg.org/9t47iieep/Screen_Shot_2016_01_03_at_22_01_45.png)
 
 To use avocado with [GitHub Pages](https://pages.github.com/):
 
