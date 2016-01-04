@@ -1,6 +1,6 @@
 # avocado
 
-avocado is a simple, responsive, one-page Jekyll website which helps you establish an
+avocado is a simple, responsive, one-page Jekyll theme which helps you establish an
 online presence with minimal effort. See a live demo at [willman.io](http://willman.io).
 
 ![avocado in action](/screenshots/full_size.png)
