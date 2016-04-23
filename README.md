@@ -15,7 +15,7 @@ To use avocado with [GitHub Pages](https://pages.github.com/):
   ratio.
 
 # Author
-Christian E Willman <github@willman.io>
+Christian Willman <github@willman.io>
 
 # License
 MIT
