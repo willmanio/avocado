@@ -5,6 +5,7 @@ online presence with minimal effort.
 
 ![avocado in action](/screenshots/full_size.png)
 
+## Usage
 To use avocado with [GitHub Pages](https://pages.github.com/):
 
 - Fork this repository to your own account
@@ -14,8 +15,9 @@ To use avocado with [GitHub Pages](https://pages.github.com/):
   For best results, the flair image should be around 500px in width and of a 9:16 aspect
   ratio.
 
-# Author
-Christian Willman <github@willman.io>
-
 # License
 MIT
+
+
+# Author
+Christian Willman <github@willman.io>
