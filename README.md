@@ -15,9 +15,9 @@ To use avocado with [GitHub Pages](https://pages.github.com/):
   For best results, the flair image should be around 500px in width and of a 9:16 aspect
   ratio.
 
-# License
-MIT
 
-
-# Author
+## Author
 Christian Willman <github@willman.io>
+
+## License
+MIT
